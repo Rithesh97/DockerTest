@@ -1,2 +1,0 @@
-Hello Welcome to git repo for devops practice
-second line
